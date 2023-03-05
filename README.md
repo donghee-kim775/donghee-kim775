@@ -1,5 +1,5 @@
 ## <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=DongHeeKim&fontSize=60&fontAlign=80&fontAlignY=40&color=gradient&descAlign=50)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=DongHeeKim&fontSize=60&fontAlign=80&fontAlignY=40&color=gradient&)
 
 <h3 align="center">:mortar_board: Main Skills :mortar_board:</h3>
 
