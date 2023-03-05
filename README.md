@@ -8,6 +8,13 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
+<h3 align="center"> Tried Skills </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+</p>
+
 <br>
 
 ### Career
