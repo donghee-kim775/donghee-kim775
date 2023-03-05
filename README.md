@@ -26,7 +26,7 @@
 
 ## 📫 Contact 📫
 
-                CV --  -- https://frost-gazelle-079.notion.site/Dong-Hee-Kim-03e97197fdd74ff6b86c9a1ada86fe0e
+https://frost-gazelle-079.notion.site/Dong-Hee-Kim-03e97197fdd74ff6b86c9a1ada86fe0e
 
 <br>
 <!--
