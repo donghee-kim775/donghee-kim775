@@ -18,13 +18,13 @@
 
 <br>
 
-<h3 align="center"> 📫 Career 📫 </h3>
+## 📫 Career 📫
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2019. 3 ~  | Department of Artificial Intelligence & Big Data | **Daegu Catolic University** |
 
-<h3 align="center"> 📫 Contact 📫 </h3>
+## 📫 Contact 📫
                 CV --  -- https://frost-gazelle-079.notion.site/Dong-Hee-Kim-03e97197fdd74ff6b86c9a1ada86fe0e
 
 <br>
