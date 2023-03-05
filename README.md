@@ -1,5 +1,7 @@
+## Waving <a id="waving">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
- <h3 align="center">:mortar_board: Main Skills :mortar_board:</h3>
+<h3 align="center">:mortar_board: Main Skills :mortar_board:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
