@@ -23,6 +23,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2019. 3 ~  | Department of Artificial Intelligence & Big Data | **Daegu Catolic University** |
+| **Intern** | 2023.07.01~2023.08.31  | Data-Pre-Processing & Data Visualize(Tableau / Python) | **ETRI** |
 
 ## 📫 Contact 📫
 
