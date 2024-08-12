@@ -30,7 +30,9 @@
 | **CapstoneDesign** | 3학년 / 5학차  | AWS Cloud (RDS, Qucksight) Data analysis | **DCU** |
 | **qualifications** | 제51회 SQL 개발자(SQLD)  | SQLD | **KData** |
 | **Paper** | 4학년 / 7학차 | Strategies for Data Cleanup and Optimization in Delta Lake: A Compaction-Vacuum Study (First author) | **한국정보기술학회** |
+| **Project** | 4학년 / 7학차 | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수 | **T3Q** |
 | **Intern** | 4학년 / 7학차 (1 month) | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수 | **T3Q** |
+
 
 ## 📫 Contact 📫
 
