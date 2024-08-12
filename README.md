@@ -27,7 +27,7 @@
 | **Intern** | 2학년 / 3학차 (1 month) | arduino Using Opensource | **(주)코딩아이** |
 | **Intern** | 2학년 / 4학차 (1 month)  | AI Model Serving using Flask | **(주)Adot** |
 | **Intern** | 3학년 / 5학차 (2 month)  | Data-Pre-Processing & Data Visualize using (Tableau / Python) | **ETRI** |
-| **CapstoneDesign** | 3학년 / 3학차  | AWS Cloud (RDS, Qucksight) Data analysis | **DCU** |
+| **CapstoneDesign** | 3학년 / 5학차  | AWS Cloud (RDS, Qucksight) Data analysis | **DCU** |
 | **qualifications** | 제51회 SQL 개발자(SQLD)  | SQLD | **KData** |
 | **Paper** | 4학년 / 7학차 | Strategies for Data Cleanup and Optimization in Delta Lake: A Compaction-Vacuum Study (First author) | **한국정보기술학회** |
 | **Intern** | 4학년 / 7학차 (1 month) | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수 | **T3Q** |
