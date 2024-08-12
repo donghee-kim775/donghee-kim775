@@ -24,7 +24,13 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2019. 3 ~  | Department of Artificial Intelligence & Big Data | **Daegu Catolic University** |
-| **Intern** | 2023.07.01~2023.08.31  | Data-Pre-Processing & Data Visualize(Tableau / Python) | **ETRI** |
+| **Intern** | 2학년 / 3학차 | arduino Using Opensource | **(주)코딩아이** |
+| **Intern** | 2학년 / 4학차  | AI Model Serving using Flask | **(주)Adot** |
+| **Intern** | 3학년 / 5학차  | Data-Pre-Processing & Data Visualize using (Tableau / Python) | **ETRI** |
+| **CapstoneDesign** | 3학년 / 3학차  | AWS Cloud (RDS, Qucksight) Data analysis | **DCU** |
+| **qualifications** | 제51회 SQL 개발자(SQLD)  | SQLD | **KData** |
+| **Paper** | 4학년 / 7학차 | Strategies for Data Cleanup and Optimization in Delta Lake: A Compaction-Vacuum Study | **한국정보기술학회** |
+| **Intern** | 4학년 / 7학차 | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수 | **T3Q** |
 
 ## 📫 Contact 📫
 
