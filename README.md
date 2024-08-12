@@ -24,14 +24,14 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2019. 3 ~  | Department of Artificial Intelligence & Big Data | **Daegu Catolic University** |
-| **Intern** | 2학년 / 3학차 (1 month) | arduino Using Opensource | **(주)코딩아이** |
-| **Intern** | 2학년 / 4학차 (1 month)  | AI Model Serving using Flask | **(주)Adot** |
-| **Intern** | 3학년 / 5학차 (2 month)  | Data-Pre-Processing & Data Visualize using (Tableau / Python) | **ETRI** |
+| **Intern** | 2학년 / 3학차<br>(1 month) | arduino Using Opensource | **(주)코딩아이** |
+| **Intern** | 2학년 / 4학차<br>(1 month)  | AI Model Serving using Flask | **(주)Adot** |
+| **Intern** | 3학년 / 5학차<br>(2 month)  | Data-Pre-Processing & Data Visualize using (Tableau / Python) | **ETRI** |
 | **CapstoneDesign** | 3학년 / 5학차  | AWS Cloud (RDS, Qucksight) Data analysis | **DCU** |
-| **qualifications** | 제51회 SQL 개발자(SQLD)  | SQLD | **KData** |
-| **Paper** | 4학년 / 7학차 | Strategies for Data Cleanup and Optimization in Delta Lake: A Compaction-Vacuum Study (First author) | **한국정보기술학회** |
-| **Project** | 4학년 / 7학차 | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수 | **T3Q** |
-| **Intern** | 4학년 / 7학차 (1 month) | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수 | **T3Q** |
+| **qualifications** | 제51회 SQL 개발자<br>(SQLD)  | SQLD | **KData** |
+| **Paper** | 4학년 / 7학차 | Strategies for Data Cleanup and Optimization in Delta Lake : <br>A Compaction-Vacuum Study (First author) | **한국정보기술학회** |
+| **Project** | 4학년 / 7학차 | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수<br>Spring Egov Framework | **T3Q** |
+| **Intern** | 4학년 / 7학차<br>(1 month) | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수<br>Spring Egov Framework | **T3Q** |
 | **2024 Hacker-ground** |  | Azure & AI Service | **MS&KNU** |
 
 ## 📫 Contact 📫
