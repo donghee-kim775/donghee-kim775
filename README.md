@@ -32,7 +32,7 @@
 | **Paper** | 4학년 / 7학차 | Strategies for Data Cleanup and Optimization in Delta Lake : <br>A Compaction-Vacuum Study (First author) | **한국정보기술학회** |
 | **Project** | 4학년 / 7학차 | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수<br>Spring Egov Framework | **T3Q** |
 | **Intern** | 4학년 / 7학차<br>(1 month) | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수<br>Spring Egov Framework | **T3Q** |
-| **2024 Hacker-ground** |  | Azure & AI Service | **MS&KNU** |
+| **2024 Hacker-ground** |  | Azure & AI Service <br> AI API using Azure AI / OPEN AI 개발 & DB 구축 | **MS&KNU** |
 
 ## 📫 Contact 📫
 
