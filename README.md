@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center"> Tried Skills </h3>
@@ -34,7 +35,9 @@
 | **Intern** | 4학년 / 7학차<br>(1 month) | T3Q 연속공정관련 플랫폼 DB 분석 & API 유지보수<br>Spring Egov Framework | **T3Q** |
 | **2024 Hacker-ground** |  | Azure & AI Service <br> AI API using Azure AI / OPEN AI 개발 & DB 구축 | **MS&KNU** |
 | **K-Digital Training** |  | Data Engineering Dev Course 4기 | **Programmers** |
-
+| **K-Digital Training** |  | Data Engineering Dev Course 최종 프로젝트-1등 | **Programmers** |
+| **Education** | 2025. 03 ~  | Department of Artificial Intelligence & Big Data 석사 | **Daegu Catolic University** |
+| **Intern** | 2025. 03 ~ | T3Q 연속공정 플랫폼 모든거 유지보수..ㅎㅎ | **T3Q** |
 ## 📫 Contact 📫
 
 
