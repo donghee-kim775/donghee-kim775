@@ -39,8 +39,8 @@
 | **Education** | 2025. 03 ~  | Department of Artificial Intelligence & Big Data 석사 | **Daegu Catolic University** |
 | **Intern** | 2025. 03 ~ | T3Q 연속공정 플랫폼 모든거 유지보수..ㅎㅎ | **T3Q** |
 ## 📫 Contact 📫
-
-
+| 개인 Study : https://youthful-yew-08d.notion.site/1965c4826975808bb481c4d60ef19aec?source=copy_link
+=> 도움되는거 많을지도...
 
 <br>
 <!--
